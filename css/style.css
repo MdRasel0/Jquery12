@@ -1,0 +1,39 @@
+body{
+  font-family: 'PT Sans', sans-serif;
+}
+.header{
+  background-color: #808000;
+  padding: 15px;
+}
+.hed1{
+  font-weight: 700;
+}
+.span1{
+  color: #fff;
+}
+.service{
+  padding: 20px;
+  background-color: orange;
+}
+.box{
+  height: 100px;
+  background-color: #FF7F50;
+  margin-left: 10px;
+}
+
+.box1{
+  height: 100px;
+  background-color: #7FFF00;
+  margin-left: 10px;
+
+}
+.box2{
+  height: 100px;
+  background-color: #FF7F50;
+  margin-left: 10px;
+}
+.dark{
+  background-color: black;
+  padding-top: 25px;
+  padding-bottom: 24px;
+}
